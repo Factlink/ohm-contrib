@@ -1,4 +1,4 @@
-##This repository has been deprecated. Please find another fork when you're still using this. We will delete this repository soon.
+###This repository has been deprecated. Please find another [fork](https://github.com/mafei198/ohm-contrib) when you're still using this. We will delete this repository soon.
 
 ohm-contrib
 ===========
